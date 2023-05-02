@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appGraficar", "appGraficar\appGraficar.csproj", "{DD1A0179-F150-48C9-9981-91C02671623B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1A0179-F150-48C9-9981-91C02671623B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1A0179-F150-48C9-9981-91C02671623B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1A0179-F150-48C9-9981-91C02671623B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1A0179-F150-48C9-9981-91C02671623B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF9E919-9E41-4249-905E-D83E52D7EEF3}
+	EndGlobalSection
+EndGlobal
